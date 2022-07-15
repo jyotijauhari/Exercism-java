@@ -1,0 +1,1 @@
+This repository contains codes for problem solved in java on exercism platform as part of pre-reads
